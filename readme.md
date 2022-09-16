@@ -20,7 +20,7 @@
 ![LinkedIN](https://img.shields.io/badge/%20LinkedIn%20-blue)
 
 ## Project Demo
-### Click Here for live link [Trend]()
+### Click Here for live link [Trend](https://trendbykriti.netlify.app/)
 
 #### Screenshot
 ![Project1](./assets/Screenshot%202022-09-16%20at%206.47.06%20PM.png)
